@@ -1,0 +1,15 @@
+.wg-star {  
+    background: url('../img/star_empty.png') no-repeat;  
+    float:      left;  
+    height:     28px;  
+    padding:    2px;  
+    width:      32px;  
+}  
+.wg-star-over {  
+    background: url('../img/star_full.png') no-repeat;  
+}  
+.wg-star-voted {  
+    background: url('../img/star_highlight.png') no-repeat;  
+} 
+
+.wg_starts_list div {cursor:pointer;}
