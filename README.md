@@ -9,7 +9,7 @@ Usage
 Include an input to hold the rating value, an initial value can be provided.
 
 <pre>
-    <input type="hidden" name="rate-me" id="rate-me" />
+    &lt;input type="hidden" name="rate-me" id="rate-me" /&gt;
 </pre>
 
 Initialize the plugin in your input.
